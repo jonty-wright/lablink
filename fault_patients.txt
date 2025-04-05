@@ -1,0 +1,2636 @@
+Patient Find >> Episode Cumulative Results
+00:29:58  Dr Hendrik Kruger
+MRN65188154
+SA07851222
+NOMVUYELO
+JONI
+21/01/1970
+• • •
+Episode Cumulative Results
+
+Episode	SA07851222
+Date collected	10/09/2024
+Time collected	10:00
+Authorised by Instrument on 10/09/2024 at 19:54
+
+
+Creatinine 55 umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2 eGFR (CKD-EPI formula) 102 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race. Estimation of the GFR using the CKD-EPI formula is more accurate than the MDRD formula at GFR > 60 mL/min/1.73 m^2, and can therefore be used to detect patients with mild renal impairment. It can be used to grade severity of renal impairment using the KDIGO 2012 recommendations. The CKD-EPI formula used here does not employ a correction factor for race.
+
+
+Episode	STM0043561
+Date collected	19/07/2024
+Time collected	10:00
+Authorised by CJ Andrews on 28/08/2024 at 14:56
+
+
+Creatinine 52 umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2 eGFR (CKD-EPI formula) 104 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race. Estimation of the GFR using the CKD-EPI formula is more accurate than the MDRD formula at GFR > 60 mL/min/1.73 m^2, and can therefore be used to detect patients with mild renal impairment. It can be used to grade severity of renal impairment using the KDIGO 2012 recommendations. The CKD-EPI formula used here does not employ a correction factor for race.
+Episode	XG01144545
+Date collected	19/06/2024
+Time collected	08:22
+Authorised by Instrument on 20/06/2024 at 04:42
+
+
+Creatinine 59 umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2 eGFR (CKD-EPI formula) 100 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race. Estimation of the GFR using the CKD-EPI formula is more accurate than the MDRD formula at GFR > 60 mL/min/1.73 m^2, and can therefore be used to detect patients with mild renal impairment. It can be used to grade severity of renal impairment using the KDIGO 2012 recommendations. The CKD-EPI formula used here does not employ a correction factor for race.
+Episode	ST06410103
+Date collected	03/04/2024
+Time collected	13:40
+Authorised by N Tshapile on 04/04/2024 at 01:43
+
+
+Creatinine 54 umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2 eGFR (CKD-EPI formula) 103 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race. Estimation of the GFR using the CKD-EPI formula is more accurate than the MDRD formula at GFR > 60 mL/min/1.73 m^2, and can therefore be used to detect patients with mild renal impairment. It can be used to grade severity of renal impairment using the KDIGO 2012 recommendations. The CKD-EPI formula used here does not employ a correction factor for race.
+Episode	SA07122447
+Date collected	10/10/2023
+Time collected	
+Authorised by Instrument on 11/10/2023 at 13:26
+
+
+Creatinine 42 L umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2 eGFR (CKD-EPI formula) 112 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race. Estimation of the GFR using the CKD-EPI formula is more accurate than the MDRD formula at GFR > 60 mL/min/1.73 m^2, and can therefore be used to detect patients with mild renal impairment. It can be used to grade severity of renal impairment using the KDIGO 2012 recommendations. The CKD-EPI formula used here does not employ a correction factor for race.
+Episode	SA05846004
+Date collected	01/06/2022
+Time collected	
+Authorised by Instrument on 02/06/2022 at 02:10
+
+
+Creatinine 45 L umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2 eGFR (CKD-EPI formula) 111 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race. Estimation of the GFR using the CKD-EPI formula is more accurate than the MDRD formula at GFR > 60 mL/min/1.73 m^2, and can therefore be used to detect patients with mild renal impairment. It can be used to grade severity of renal impairment using the KDIGO 2012 recommendations. The CKD-EPI formula used here does not employ a correction factor for race.
+Episode	XG00714059
+Date collected	06/11/2020
+Time collected	11:49
+Authorised by N Mimi ** on 06/11/2020 at 17:23
+
+
+Creatinine 47 L umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2 eGFR (CKD-EPI formula) 111 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race. Estimation of the GFR using the CKD-EPI formula is more accurate than the MDRD formula at GFR > 60 mL/min/1.73 m^2, and can therefore be used to detect patients with mild renal impairment. It can be used to grade severity of renal impairment using the KDIGO 2012 recommendations. The CKD-EPI formula used here does not employ a correction factor for race.
+Episode	ST03151738
+Date collected	14/02/2020
+Time collected	
+Authorised by Instrument on 15/02/2020 at 18:03
+
+
+Creatinine 63 umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race.
+Episode	XG00236968
+Date collected	13/01/2017
+Time collected	
+Authorised by L Ramashoai on 13/01/2017 at 14:04
+
+
+Creatinine 63 umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race.
+Episode	XG00236495
+Date collected	11/01/2017
+Time collected	21:44
+Authorised by N. Ndyamara * on 11/01/2017 at 23:12
+
+
+Creatinine 63 umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race.
+Episode	ST00968506
+Date collected	06/01/2017
+Time collected	09:10
+Authorised by Dr TP Jalavu on 06/01/2017 at 16:20
+
+
+Creatinine 64 umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race.
+Episode	ST00963098
+Date collected	03/01/2017
+Time collected	
+Authorised by Dr TP Jalavu on 03/01/2017 at 14:31
+
+
+Creatinine 80 umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race.
+Episode	ST00961553
+Date collected	01/01/2017
+Time collected	01:00
+Authorised by JJ Germishuys on 01/01/2017 at 03:55
+
+
+Creatinine 67 umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race.
+Episode	ST00961076
+Date collected	31/12/2016
+Time collected	01:00
+Authorised by J Malherbe on 31/12/2016 at 02:21
+
+
+Creatinine 63 umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race.
+Episode	ST00959730
+Date collected	30/12/2016
+Time collected	01:00
+Authorised by K van der Merwe ** on 30/12/2016 at 04:17
+
+
+Creatinine 62 umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race.
+Episode	ST00958108
+Date collected	29/12/2016
+Time collected	01:00
+Authorised by M Hoffman on 29/12/2016 at 05:03
+
+
+Creatinine 51 umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race.
+Episode	ST00956547
+Date collected	28/12/2016
+Time collected	01:00
+Authorised by E Rodel ** on 28/12/2016 at 04:52
+
+
+Creatinine 40 L umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race.
+Episode	ST00956001
+Date collected	27/12/2016
+Time collected	
+Authorised by WD Kruger on 27/12/2016 at 03:19
+
+
+Creatinine 47 L umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race.
+Episode	ST00955521
+Date collected	26/12/2016
+Time collected	
+Authorised by E Rodel ** on 26/12/2016 at 07:41
+
+
+Creatinine 60 umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race.
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+Authorised by WD Kruger on 24/12/2016 at 22:04
+
+
+Creatinine 39 L umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race.
+Episode	XG00232417
+Date collected	23/12/2016
+Time collected	20:30
+Authorised by S Ngodwane on 24/12/2016 at 11:21
+
+
+Creatinine 46 L umol/L 49 - 90 eGFR (MDRD formula) >60 mL/min/1.73 m2
+
+MDRD-derived estimation of GFR may significantly underestimate true GFR in patients with GFR > 60 mL/min/1.73m^2. It may also be unreliable in the case of: age <18 years or >70 years; pregnancy; serious co-morbid conditions; acute renal failure; extremes of body habitus/unusual diet; gross oedema. The MDRD-eGFR used here does not employ an ethnic factor for race.
+
+
+Episode	SA07851222
+Date collected	10/09/2024
+Time collected	10:00
+Authorised by Instrument on 10/09/2024 at 19:54
+
+
+Alanine transaminase (ALT) 8 U/L 7 - 35
+
+
+Episode	STM0043561
+Date collected	19/07/2024
+Time collected	10:00
+Authorised by CJ Andrews on 28/08/2024 at 14:56
+
+Alanine transaminase (ALT) 9 U/L 7 - 35
+
+Episode	XG01144545
+Date collected	19/06/2024
+Time collected	08:22
+Authorised by Instrument on 20/06/2024 at 04:42
+
+Alanine transaminase (ALT) 8 U/L 7 - 35
+
+Episode	ST06410103
+Date collected	03/04/2024
+Time collected	13:40
+Authorised by N Tshapile on 04/04/2024 at 01:43
+
+Alanine transaminase (ALT) 8 U/L 7 - 35
+
+Episode	SA07122447
+Date collected	10/10/2023
+Time collected	
+Authorised by Dr CA Francis on 11/10/2023 at 13:32
+
+Alanine transaminase (ALT) 8 U/L 7 - 35
+
+Episode	SA06642094
+Date collected	11/04/2023
+Time collected	
+Authorised by Dr KTR Magolego on 12/04/2023 at 10:35
+
+Alanine transaminase (ALT) 8 U/L 7 - 35
+
+Episode	ST03151738
+Date collected	14/02/2020
+Time collected	
+Authorised by JC Gagiano on 15/02/2020 at 18:17
+
+Alanine transaminase (ALT) 11 U/L 7 - 35
+
+Episode	XG00236968
+Date collected	13/01/2017
+Time collected	
+Authorised by L Ramashoai on 13/01/2017 at 14:04
+
+Alanine transaminase (ALT) 370 H U/L 7 - 35
+
+Episode	XG00236495
+Date collected	11/01/2017
+Time collected	21:44
+Authorised by N. Ndyamara * on 11/01/2017 at 23:38
+
+Alanine transaminase (ALT) 374 H U/L 7 - 35
+
+Episode	ST00963098
+Date collected	03/01/2017
+Time collected	
+Authorised by Dr TP Jalavu on 03/01/2017 at 14:31
+
+Alanine transaminase (ALT) 439 H U/L 7 - 35
+
+Episode	ST00962404
+Date collected	02/01/2017
+Time collected	07:00
+Authorised by M Hoffman on 02/01/2017 at 20:02
+
+Alanine transaminase (ALT) 437 H U/L 7 - 35
+
+Episode	ST00959730
+Date collected	30/12/2016
+Time collected	01:00
+Authorised by K van der Merwe ** on 30/12/2016 at 04:17
+
+Alanine transaminase (ALT) 122 H U/L 7 - 35
+
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+Authorised by WD Kruger on 24/12/2016 at 22:04
+
+Alanine transaminase (ALT) 60 H U/L 7 - 35
+
+Episode	XG00232417
+Date collected	23/12/2016
+Time collected	20:30
+Authorised by S Ngodwane on 24/12/2016 at 11:21
+
+Alanine transaminase (ALT) 66 H U/L 7 - 35
+
+
+
+
+Date Collected	10/09/2024	19/07/2024	19/06/2024	03/04/2024	10/10/2023	01/06/2022	09/12/2021	14/02/2020	13/01/2017	11/01/2017	03/01/2017	02/01/2017	01/01/2017	31/12/2016	30/12/2016	29/12/2016	28/12/2016	27/12/2016	26/12/2016	24/12/2016	23/12/2016
+Time Collected	10:00	10:00	08:22	13:40	?	?	?	?	?	21:44	?	07:00	01:00	01:00	01:00	01:00	01:00	?	?	?	20:30
+Episode	SA07851222	STM0043561	XG01144545	ST06410103	SA07122447	SA05846004	SA05400415	ST03151738	XG00236968	XG00236495	ST00963098	ST00962404	ST00961553	ST00961076	ST00959730	ST00958108	ST00956547	ST00956001	ST00955521	ST00954955	XG00232417
+White Cell Cou	5.20	7.67	7.42	9.57	8.04	7.64	9.89	8.02	12.37	14.61 H	19.42 H	22.64 H	25.54 H	30.44 H	30.85 H	44.80 H	52.07 H	43.44 H	38.31 H	29.62 H	50.10 H
+Red Cell Count	3.66 L	3.84	4.20	3.85	4.46	3.53 L	3.90	4.38	3.11 L	2.83 L	2.72 L	3.00 L	2.84 L	2.84 L	2.76 L	3.21 L	3.22 L	3.10 L	3.24 L	3.60 L	3.81
+Haemoglobin	11.1 L	11.0 L	11.9 L	10.2 L	11.3 L	8.2 L	9.6 L	12.4	9.3 L	8.7 L	7.9 L	8.5 L	7.8 L	7.9 L	7.8 L	9.1 L	8.9 L	8.6 L	9.0 L	10.3 L	10.9 L
+Haematocrit	0.349 L	0.363	0.381	0.346 L	0.399	0.290 L	0.350 L	0.436	0.288 L	0.264 L	0.270 L	0.300 L	0.275 L	0.270 L	0.250 L	0.298 L	0.290 L	0.273 L	0.290 L	0.322 L	0.326 L
+MCV	95.4	94.5	90.7	89.9	89.5	82.2	89.7	99.5 H	92.7	93.1	98.2	100.7 H	96.7	95.1	92.2	93.0	90.0	88.0	89.4	89.5	86.0
+MCH	30.3	28.6	28.3	26.5	25.3 L	23.2 L	24.6 L	28.3	29.8	30.8	29.2	28.4	27.6	27.7	28.2	28.3	27.5	27.9	27.7	28.7	28.6
+Platelet Count	352	341	391	206	619 H	645 H	571 H	365	426	495 H	227	181 L	150 L	103 L	87 L	64 L	31 L	12 L	8 L	5 L	6 L
+Episode	SA07851222
+Date collected	10/09/2024
+Time collected	10:00
+
+
+Authorised by Instrument on 10/09/2024 at 19:54
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+
+
+Episode	STM0043561
+Date collected	19/07/2024
+Time collected	10:00
+
+
+Authorised by Instrument on 31/08/2024 at 02:00
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	XG01144545
+Date collected	19/06/2024
+Time collected	08:22
+
+
+Authorised by Instrument on 20/06/2024 at 04:42
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	ST06410103
+Date collected	03/04/2024
+Time collected	13:40
+
+
+Authorised by Instrument on 04/04/2024 at 01:30
+
+Indices in serum: Haemoglobin index Trace Bilirubin index Not detected Lipaemia index Not detected
+Episode	SA07122447
+Date collected	10/10/2023
+Time collected	
+
+
+Authorised by Instrument on 11/10/2023 at 13:26
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	SA06642094
+Date collected	11/04/2023
+Time collected	
+
+
+Authorised by Instrument on 12/04/2023 at 05:57
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	SA05846004
+Date collected	01/06/2022
+Time collected	
+
+
+Authorised by Instrument on 02/06/2022 at 02:10
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	SA05834166
+Date collected	27/05/2022
+Time collected	
+
+
+Authorised by Instrument on 28/05/2022 at 04:03
+
+Indices in serum: Haemoglobin index Trace Bilirubin index Not detected Lipaemia index Not detected
+Episode	SA05400415
+Date collected	09/12/2021
+Time collected	
+
+
+Authorised by Instrument on 10/12/2021 at 06:02
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	XG00714059
+Date collected	06/11/2020
+Time collected	11:49
+
+
+Authorised by BE Mbali on 06/11/2020 at 23:40
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST03151738
+Date collected	14/02/2020
+Time collected	
+
+
+Authorised by Instrument on 15/02/2020 at 18:03
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index Not detected Lipaemia index Not detected
+Episode	ST00968506
+Date collected	06/01/2017
+Time collected	09:10
+
+
+Authorised by Instrument on 06/01/2017 at 16:06
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST00962404
+Date collected	02/01/2017
+Time collected	07:00
+
+
+Authorised by Instrument on 02/01/2017 at 19:57
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST00961553
+Date collected	01/01/2017
+Time collected	01:00
+
+
+Authorised by Instrument on 01/01/2017 at 03:04
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index 1+ Lipaemia index Not detected
+Episode	ST00961076
+Date collected	31/12/2016
+Time collected	01:00
+
+
+Authorised by Instrument on 31/12/2016 at 02:20
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST00958108
+Date collected	29/12/2016
+Time collected	01:00
+
+
+Authorised by Instrument on 29/12/2016 at 05:03
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST00956547
+Date collected	28/12/2016
+Time collected	01:00
+
+
+Authorised by Instrument on 28/12/2016 at 03:54
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST00956154
+Date collected	27/12/2016
+Time collected	08:30
+
+
+Authorised by Instrument on 27/12/2016 at 11:55
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST00956001
+Date collected	27/12/2016
+Time collected	
+
+
+Authorised by Instrument on 27/12/2016 at 03:11
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST00955521
+Date collected	26/12/2016
+Time collected	
+
+
+Authorised by Instrument on 26/12/2016 at 07:35
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index Trace Lipaemia index Not detected
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+
+
+Authorised by Instrument on 24/12/2016 at 22:00
+
+Indices in serum: Haemoglobin index Not detected Bilirubin index 1+ Lipaemia index Not detected
+
+
+
+Date Collected	10/09/2024	19/07/2024	19/06/2024	03/04/2024	01/06/2022	03/01/2017	01/01/2017	30/12/2016	28/12/2016	27/12/2016	24/12/2016
+Time Collected	10:00	10:00	08:22	13:40	?	?	01:00	01:00	01:00	?	?
+Episode	SA07851222	STM0043561	XG01144545	ST06410103	SA05846004	ST00963098	ST00961553	ST00959730	ST00956547	ST00956001	ST00954955
+White Cell Cou	5.20	7.67	7.42	9.57	7.64	19.42 H	25.54 H	30.85 H	52.07 H	43.44 H	29.62 H
+Episode	SA07851222
+Date collected	10/09/2024
+Time collected	10:00
+
+
+Authorised by L Mzondi on 12/09/2024 at 07:20
+
+
+Anti-nuclear antibodies screen (CTD): Result Positive Value 6.2 ratio
+
+The antigens contained in this screening method include ds-DNA, Sm, Ribosomal P, PCNA, U1-snRNP (70kD, A and C), SS-A/Ro (Ro52 and Ro60), SS-B/La, Scl-70, CENP, Fibrillarin, RNA Polymerase III, Jo-1, Mi-2 and PM-Scl proteins.
+
+
+
+Episode	SA06642094
+Date collected	11/04/2023
+Time collected	
+
+Authorised by J O'Rhine on 21/04/2023 at 13:38
+
+
+
+Anti-nuclear antibodies screen (CTD): Result Positive Value 4.4 ratio
+
+The antigens contained in this screening method include ds-DNA, Sm, Ribosomal P, PCNA, U1-snRNP (70kD, A and C), SS-A/Ro (Ro52 and Ro60), SS-B/La, Scl-70, CENP, Fibrillarin, RNA Polymerase III, Jo-1, Mi-2 and PM-Scl proteins.
+
+Episode	SA05834166
+Date collected	27/05/2022
+Time collected	
+
+Authorised by LE Johnson on 30/05/2022 at 13:23
+
+
+
+Anti-nuclear antibodies screen (CTD): Result Positive Value 4.8 ratio
+
+The antigens contained in this screening method include ds-DNA, Sm, Ribosomal P, PCNA, U1-snRNP (70kD, A and C), SS-A/Ro (Ro52 and Ro60), SS-B/La, Scl-70, CENP, Fibrillarin, RNA Polymerase III, Jo-1, Mi-2 and PM-Scl proteins.
+
+
+
+Episode	SA07851222
+Date collected	10/09/2024
+Time collected	10:00
+Anti-dsDNA Ab (FEIA)
+Regret, test not done due to a laboratory error
+
+
+Episode	SA06642094
+Date collected	11/04/2023
+Time collected	
+
+Authorised by LE Johnson on 25/04/2023 at 05:54
+
+
+
+Anti-double stranded DNA antibody (FEIA): Result Negative Value 1.3 IU/mL
+Episode	SA05834166
+Date collected	27/05/2022
+Time collected	
+
+
+Authorised by LE Johnson on 31/05/2022 at 12:24
+
+
+Anti-double stranded DNA antibody (FEIA): Result Negative Value 2.0 IU/mL
+
+
+Episode	SA07851222
+Date collected	10/09/2024
+Time collected	10:00
+Authorised by Dr HW Vreede on 10/09/2024 at 21:02
+
+
+Complement C3 1.52 g/L 0.90 - 1.80
+
+
+Episode	SA07851222
+Date collected	10/09/2024
+Time collected	10:00
+Authorised by Dr HW Vreede on 10/09/2024 at 21:02
+
+Complement C4 0.37 g/L 0.10 - 0.40
+
+
+
+Episode	STM0043561
+Date collected	19/07/2024
+Time collected	10:00
+Authorised by CJ Andrews on 28/08/2024 at 14:56
+
+Aspartate transaminase (AST) 13 U/L 13 - 35
+
+
+
+Episode	ST00963098
+Date collected	03/01/2017
+Time collected	
+Authorised by Dr L Uuyuni ** on 04/01/2017 at 18:52
+
+Aspartate transaminase (AST) 649 H U/L 13 - 35
+
+Episode	ST00962404
+Date collected	02/01/2017
+Time collected	07:00
+Authorised by M Hoffman on 02/01/2017 at 20:02
+
+Aspartate transaminase (AST) 695 H U/L 13 - 35
+
+Episode	ST00959730
+Date collected	30/12/2016
+Time collected	01:00
+Authorised by K van der Merwe ** on 30/12/2016 at 04:17
+
+Aspartate transaminase (AST) 312 H U/L 13 - 35
+
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+Authorised by WD Kruger on 24/12/2016 at 22:04
+
+Aspartate transaminase (AST) 95 H U/L 13 - 35
+
+
+
+Episode	ST06410103
+Date collected	03/04/2024
+Time collected	13:40
+Authorised by N Tshapile on 04/04/2024 at 01:43
+
+C-Reactive protein 47 H mg/L <10
+
+
+
+Episode	SA06642094
+Date collected	11/04/2023
+Time collected	
+Authorised by Dr KTR Magolego on 12/04/2023 at 10:35
+
+C-Reactive protein 55 H mg/L <10
+
+Episode	SA05400415
+Date collected	09/12/2021
+Time collected	
+Authorised by HK Shabudien on 10/12/2021 at 06:02
+
+C-Reactive protein 145 H mg/L <10
+
+Episode	ST00963098
+Date collected	03/01/2017
+Time collected	
+Authorised by Dr TP Jalavu on 03/01/2017 at 14:31
+
+C-Reactive protein 82 H mg/L <10
+
+Episode	ST00962404
+Date collected	02/01/2017
+Time collected	07:00
+Authorised by M Hoffman on 02/01/2017 at 20:02
+
+C-Reactive protein 95 H mg/L <10
+
+Episode	ST00961553
+Date collected	01/01/2017
+Time collected	01:00
+Authorised by JJ Germishuys on 01/01/2017 at 03:55
+
+C-Reactive protein 103 H mg/L <10
+
+Episode	ST00961076
+Date collected	31/12/2016
+Time collected	01:00
+Authorised by J Malherbe on 31/12/2016 at 02:21
+
+C-Reactive protein 106 H mg/L <10
+
+Episode	ST00959730
+Date collected	30/12/2016
+Time collected	01:00
+Authorised by K van der Merwe ** on 30/12/2016 at 04:17
+
+C-Reactive protein 99 H mg/L <10
+
+Episode	ST00958108
+Date collected	29/12/2016
+Time collected	01:00
+Authorised by M Hoffman on 29/12/2016 at 05:03
+
+C-Reactive protein 163 H mg/L <10
+
+Episode	ST00956547
+Date collected	28/12/2016
+Time collected	01:00
+Authorised by E Rodel ** on 28/12/2016 at 04:52
+
+C-Reactive protein 254 H mg/L <10
+
+Episode	ST00956001
+Date collected	27/12/2016
+Time collected	
+Authorised by WD Kruger on 27/12/2016 at 03:19
+
+C-Reactive protein 311 H mg/L <10
+
+Episode	ST00955521
+Date collected	26/12/2016
+Time collected	
+Authorised by E Rodel ** on 26/12/2016 at 07:41
+
+C-Reactive protein 240 H mg/L <10
+
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+Authorised by WD Kruger on 24/12/2016 at 22:04
+
+C-Reactive protein 217 H mg/L <10
+
+
+
+Episode	ST06410103
+Date collected	03/04/2024
+Time collected	13:40
+
+
+Authorised by Instrument on 04/04/2024 at 01:12
+
+
+HIV-1/2 Ab/Ag (Screen): HIV-1/2 Ab/Ag ELISA Result Negative
+
+Comment: A negative result does not completely rule out the possibility of an infection with HIV, e.g., patients in the HIV "Window Period". Note: Children who have been on treatment from an early stage of infection may be antibody negative.
+Please interpret results in the context of clinical findings and other investigations and/or laboratory results. Please repeat sample if clinically indicated.
+
+
+
+
+Episode	ST00955521
+Date collected	26/12/2016
+Time collected	
+
+Authorised by Instrument on 28/12/2016 at 11:07
+
+
+
+HIV-1/2 Ab/Ag (Screen): HIV-1/2 Ab/Ag ELISA Result Negative
+
+Comment: A negative result does not completely rule out the possibility of an infection with HIV, e.g., patients in the HIV "Window Period". Note: Children who have been on treatment from an early stage of infection may be antibody negative.
+Please interpret results in the context of clinical findings and other investigations and/or laboratory results. Please repeat sample if clinically indicated.
+
+
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+
+Authorised by Instrument on 28/12/2016 at 12:48
+
+
+
+HIV-1/2 Ab/Ag (Screen): HIV-1/2 Ab/Ag ELISA Result Negative
+
+Comment: A negative result does not completely rule out the possibility of an infection with HIV, e.g., patients in the HIV "Window Period". Note: Children who have been on treatment from an early stage of infection may be antibody negative.
+Please interpret results in the context of clinical findings and other investigations and/or laboratory results. Please repeat sample if clinically indicated.
+
+
+
+
+Episode	ST06410103
+Date collected	03/04/2024
+Time collected	13:40
+
+Authorised by NP Mkhwanazi on 05/04/2024 at 16:25
+
+
+Anti-nuclear antibodies (IFA): Result using HEP-2 cells Negative
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+
+
+Authorised by T Rhoda on 30/12/2016 at 10:33
+
+Anti-nuclear antibodies (IFA): Result using HEP-2 cells Negative
+
+
+Episode	ST06410103
+Date collected	03/04/2024
+Time collected	13:40
+
+
+Authorised by AJ Roux on 08/04/2024 at 15:53
+
+Anti-centromere antibody (IFA): Result Negative
+
+
+Episode	ST06410103
+Date collected	03/04/2024
+Time collected	13:40
+
+
+Authorised by AJ Roux on 19/04/2024 at 16:02
+
+
+Anti-Sm antibody (ELISA): Result Negative Value 3.6 U/mL
+
+
+Episode	ST06410103
+Date collected	03/04/2024
+Time collected	13:40
+
+
+Authorised by AJ Roux on 19/04/2024 at 16:02
+
+
+Anti-RNP antibody (ELISA): Result Negative Value 3.6 U/mL
+
+
+Episode	ST06410103
+Date collected	03/04/2024
+Time collected	13:40
+
+
+Authorised by NP Mkhwanazi on 11/04/2024 at 14:16
+
+
+Anti-Scleroderma-70 antibody (ELISA): Result Negative Value 0.7 U/mL
+
+
+Episode	SA07122447
+Date collected	10/10/2023
+Time collected	
+Authorised by Instrument on 11/10/2023 at 13:26
+
+Creatine kinase (CK) 83 U/L 20 - 180
+
+
+
+Episode	ST00963098
+Date collected	03/01/2017
+Time collected	
+Authorised by Dr EC Kruger on 03/01/2017 at 17:40
+
+Creatine kinase (CK) 16190 H U/L 20 - 180
+
+Episode	ST00962404
+Date collected	02/01/2017
+Time collected	07:00
+Authorised by M Hoffman on 02/01/2017 at 21:27
+
+Creatine kinase (CK) 15328 H U/L 20 - 180
+
+
+
+Episode	SA07122447
+Date collected	10/10/2023
+Time collected	
+Authorised by Dr CA Francis on 11/10/2023 at 13:50
+
+Thyroid stimulating hormone 4.46 H mIU/L 0.27 - 4.20
+
+
+
+Episode	ST03151738
+Date collected	14/02/2020
+Time collected	
+Authorised by JC Gagiano on 15/02/2020 at 19:40
+
+Thyroid stimulating hormone 4.48 H mIU/L 0.27 - 4.20
+
+
+
+Episode	SA07122447
+Date collected	10/10/2023
+Time collected	
+Authorised by Instrument on 11/10/2023 at 14:48
+
+Thyroxine (free T4) 13.1 pmol/L 11.9 - 21.6
+
+
+
+Episode	ST03151738
+Date collected	14/02/2020
+Time collected	
+Authorised by JC Gagiano on 15/02/2020 at 19:40
+
+Thyroxine (free T4) 11.2 L pmol/L 12.0 - 22.0
+
+
+
+Episode	SA06642094
+Date collected	11/04/2023
+Time collected	
+Authorised by Dr KTR Magolego on 12/04/2023 at 13:44
+
+Rheumatoid factor <10 IU/mL <14
+
+
+
+Episode	SA05834166
+Date collected	27/05/2022
+Time collected	
+Authorised by HK Shabudien on 28/05/2022 at 05:00
+
+Rheumatoid factor 12 IU/mL <14
+
+Episode	XG00714059
+Date collected	06/11/2020
+Time collected	11:49
+Authorised by SM Nkuna on 06/11/2020 at 23:47
+
+Rheumatoid factor <10 IU/mL <20
+
+
+
+Episode	SA06642094
+Date collected	11/04/2023
+Time collected	
+
+
+Authorised by J O'Rhine on 21/04/2023 at 13:38
+
+
+Anti-cyclic citrullinated peptide (CCP) antibody (FEIA): Result Negative Value 4.9 U/mL
+
+
+Episode	SA05834166
+Date collected	27/05/2022
+Time collected	
+
+
+Authorised by LE Johnson on 30/05/2022 at 13:23
+
+
+Anti-cyclic citrullinated peptide (CCP) antibody (FEIA): Result Negative Value 6.5 U/mL
+Episode	SA05400415
+Date collected	09/12/2021
+Time collected	
+
+
+Authorised by LE Johnson on 10/12/2021 at 14:19
+
+
+Anti-cyclic citrullinated peptide (CCP) antibody (FEIA): Result Equivocal Value 7.4 U/mL
+
+
+Episode	SA05846004
+Date collected	01/06/2022
+Time collected	
+Authorised by Instrument on 02/06/2022 at 02:10
+
+Sodium 139 mmol/L 136 - 145
+
+
+
+Episode	ST03151738
+Date collected	14/02/2020
+Time collected	
+Authorised by Instrument on 15/02/2020 at 18:03
+
+Sodium 141 mmol/L 136 - 145
+
+Episode	XG00236495
+Date collected	11/01/2017
+Time collected	21:44
+Authorised by N. Ndyamara * on 11/01/2017 at 23:12
+
+Sodium 133 L mmol/L 136 - 145
+
+Episode	ST00968506
+Date collected	06/01/2017
+Time collected	09:10
+Authorised by Dr TP Jalavu on 06/01/2017 at 16:20
+
+Sodium 138 mmol/L 136 - 145
+
+Episode	ST00963098
+Date collected	03/01/2017
+Time collected	
+Authorised by Dr TP Jalavu on 03/01/2017 at 14:31
+
+Sodium 141 mmol/L 136 - 145
+
+Episode	ST00961553
+Date collected	01/01/2017
+Time collected	01:00
+Authorised by JJ Germishuys on 01/01/2017 at 03:55
+
+Sodium 146 H mmol/L 136 - 145
+
+Episode	ST00961076
+Date collected	31/12/2016
+Time collected	01:00
+Authorised by J Malherbe on 31/12/2016 at 02:21
+
+Sodium 148 H mmol/L 136 - 145
+
+Episode	ST00959730
+Date collected	30/12/2016
+Time collected	01:00
+Authorised by K van der Merwe ** on 30/12/2016 at 04:17
+
+Sodium 143 mmol/L 136 - 145
+
+Episode	ST00958108
+Date collected	29/12/2016
+Time collected	01:00
+Authorised by M Hoffman on 29/12/2016 at 05:03
+
+Sodium 145 mmol/L 136 - 145
+
+Episode	ST00956547
+Date collected	28/12/2016
+Time collected	01:00
+Authorised by E Rodel ** on 28/12/2016 at 04:52
+
+Sodium 141 mmol/L 136 - 145
+
+Episode	ST00956001
+Date collected	27/12/2016
+Time collected	
+Authorised by WD Kruger on 27/12/2016 at 03:19
+
+Sodium 136 mmol/L 136 - 145
+
+Episode	ST00955521
+Date collected	26/12/2016
+Time collected	
+Authorised by E Rodel ** on 26/12/2016 at 07:41
+
+Sodium 135 L mmol/L 136 - 145
+
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+Authorised by WD Kruger on 24/12/2016 at 22:04
+
+Sodium 138 mmol/L 136 - 145
+
+Episode	XG00232417
+Date collected	23/12/2016
+Time collected	20:30
+Authorised by S Ngodwane on 24/12/2016 at 11:21
+
+Sodium 129 L mmol/L 136 - 145
+
+
+
+Episode	SA05846004
+Date collected	01/06/2022
+Time collected	
+Authorised by Instrument on 02/06/2022 at 02:10
+
+Potassium 4.8 mmol/L 3.5 - 5.1
+
+
+
+Episode	ST03151738
+Date collected	14/02/2020
+Time collected	
+Authorised by JC Gagiano on 15/02/2020 at 18:17
+
+Potassium 5.9 H mmol/L 3.5 - 5.1
+
+Episode	XG00236968
+Date collected	13/01/2017
+Time collected	
+Authorised by L Ramashoai on 13/01/2017 at 14:04
+
+Potassium 3.9 mmol/L 3.5 - 5.1
+
+Episode	XG00236495
+Date collected	11/01/2017
+Time collected	21:44
+Authorised by N. Ndyamara * on 11/01/2017 at 23:12
+
+Potassium 4.1 mmol/L 3.5 - 5.1
+
+Episode	ST00968506
+Date collected	06/01/2017
+Time collected	09:10
+Authorised by Dr TP Jalavu on 06/01/2017 at 16:20
+
+Potassium 3.3 L mmol/L 3.5 - 5.1
+
+Episode	ST00963098
+Date collected	03/01/2017
+Time collected	
+Authorised by Dr TP Jalavu on 03/01/2017 at 14:31
+
+Potassium 3.5 mmol/L 3.5 - 5.1
+
+Episode	ST00961553
+Date collected	01/01/2017
+Time collected	01:00
+Authorised by JJ Germishuys on 01/01/2017 at 03:55
+
+Potassium 3.5 mmol/L 3.5 - 5.1
+
+Episode	ST00961076
+Date collected	31/12/2016
+Time collected	01:00
+Authorised by J Malherbe on 31/12/2016 at 02:21
+
+Potassium 3.7 mmol/L 3.5 - 5.1
+
+Episode	ST00959730
+Date collected	30/12/2016
+Time collected	01:00
+Authorised by K van der Merwe ** on 30/12/2016 at 04:17
+
+Potassium 3.6 mmol/L 3.5 - 5.1
+
+Episode	ST00958108
+Date collected	29/12/2016
+Time collected	01:00
+Authorised by M Hoffman on 29/12/2016 at 05:03
+
+Potassium 3.8 mmol/L 3.5 - 5.1
+
+Episode	ST00956547
+Date collected	28/12/2016
+Time collected	01:00
+Authorised by E Rodel ** on 28/12/2016 at 04:52
+
+Potassium 3.5 mmol/L 3.5 - 5.1
+
+Episode	ST00956001
+Date collected	27/12/2016
+Time collected	
+Authorised by WD Kruger on 27/12/2016 at 03:19
+
+Potassium 3.6 mmol/L 3.5 - 5.1
+
+Episode	ST00955521
+Date collected	26/12/2016
+Time collected	
+Authorised by E Rodel ** on 26/12/2016 at 07:41
+
+Potassium 3.5 mmol/L 3.5 - 5.1
+
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+Authorised by WD Kruger on 24/12/2016 at 22:04
+
+Potassium 3.7 mmol/L 3.5 - 5.1
+
+Episode	XG00232417
+Date collected	23/12/2016
+Time collected	20:30
+Authorised by S Ngodwane on 24/12/2016 at 11:21
+
+Potassium 3.5 mmol/L 3.5 - 5.1
+
+
+
+Episode	SA05846004
+Date collected	01/06/2022
+Time collected	
+Authorised by Instrument on 02/06/2022 at 02:10
+
+Urea 2.6 mmol/L 2.1 - 7.1
+
+
+
+Episode	ST03151738
+Date collected	14/02/2020
+Time collected	
+Authorised by JC Gagiano on 15/02/2020 at 18:17
+
+Urea 3.8 mmol/L 2.1 - 7.1
+
+Episode	XG00236495
+Date collected	11/01/2017
+Time collected	21:44
+Authorised by N. Ndyamara * on 11/01/2017 at 23:12
+
+Urea 7.5 H mmol/L 2.1 - 7.1
+
+Episode	ST00968506
+Date collected	06/01/2017
+Time collected	09:10
+Authorised by Dr TP Jalavu on 06/01/2017 at 16:20
+
+Urea 5.7 mmol/L 2.1 - 7.1
+
+Episode	ST00963098
+Date collected	03/01/2017
+Time collected	
+Authorised by Dr TP Jalavu on 03/01/2017 at 14:31
+
+Urea 6.9 mmol/L 2.1 - 7.1
+
+Episode	ST00961553
+Date collected	01/01/2017
+Time collected	01:00
+Authorised by JJ Germishuys on 01/01/2017 at 03:55
+
+Urea 6.3 mmol/L 2.1 - 7.1
+
+Episode	ST00961076
+Date collected	31/12/2016
+Time collected	01:00
+Authorised by J Malherbe on 31/12/2016 at 02:21
+
+Urea 5.9 mmol/L 2.1 - 7.1
+
+Episode	ST00959730
+Date collected	30/12/2016
+Time collected	01:00
+Authorised by K van der Merwe ** on 30/12/2016 at 04:17
+
+Urea 5.3 mmol/L 2.1 - 7.1
+
+Episode	ST00958108
+Date collected	29/12/2016
+Time collected	01:00
+Authorised by M Hoffman on 29/12/2016 at 05:03
+
+Urea 4.0 mmol/L 2.1 - 7.1
+
+Episode	ST00956547
+Date collected	28/12/2016
+Time collected	01:00
+Authorised by E Rodel ** on 28/12/2016 at 04:52
+
+Urea 3.0 mmol/L 2.1 - 7.1
+
+Episode	ST00956001
+Date collected	27/12/2016
+Time collected	
+Authorised by WD Kruger on 27/12/2016 at 03:19
+
+Urea 3.1 mmol/L 2.1 - 7.1
+
+Episode	ST00955521
+Date collected	26/12/2016
+Time collected	
+Authorised by E Rodel ** on 26/12/2016 at 07:41
+
+Urea 2.9 mmol/L 2.1 - 7.1
+
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+Urea
+Test automatically rejected on the basis of the hospital's electronic gatekeeping rules. If it is clinically necessary for the test to be performed, the rejection can only be reversed by providing a valid approval number to the laboratory. This must be done within 7 days, and before the stability limits of the test are exceeded. Please contact the person designated to provide eGK approval numbers for your facility.
+Episode	XG00232417
+Date collected	23/12/2016
+Time collected	20:30
+Authorised by S Ngodwane on 24/12/2016 at 11:21
+
+
+Urea 2.3 mmol/L 2.1 - 7.1
+
+
+Episode	SA05846004
+Date collected	01/06/2022
+Time collected	
+Authorised by Instrument on 02/06/2022 at 02:10
+
+Total cholesterol 4.72 mmol/L
+
+
+
+CHOLESTEROL TREATMENT TARGETS (per CV Event Risk Category): Risk Category: TC target: LDL-C target:
+Low/Moderate Risk <5.0 mmol/L <3.0 mmol/L High Risk <4.5 mmol/L <2.5 mmol/L
+
+Aim for a reduction of at least 50%
+if baseline LDL-C is 2.5-5.2 mmol/L Very High Risk <4.0 mmol/L <1.8 mmol/L
+Aim for a reduction of at least 50%
+if baseline LDL-C is 1.8-3.5 mmol/L
+
+
+Episode	XG00714059
+Date collected	06/11/2020
+Time collected	11:49
+Authorised by N Mimi ** on 06/11/2020 at 17:23
+
+
+Total cholesterol 5.91 mmol/L
+
+CHOLESTEROL TREATMENT TARGETS: Categories: Very High Risk High Risk Moderate/Low Risk Total Cholesterol < 4.0 mmol/L < 4.5 mmol/L < 5.0 mmol/L LDL Cholesterol < 1.8 mmol/L < 2.5 mmol/L < 3.0 mmol/L Framingham 10-year CVD Risk Score NA 15-30 3-15/<3
+Episode	ST03151738
+Date collected	14/02/2020
+Time collected	
+Authorised by Instrument on 15/02/2020 at 18:03
+
+
+Total cholesterol 5.21 mmol/L
+
+CHOLESTEROL TREATMENT TARGETS: Categories: Very High Risk High Risk Moderate/Low Risk Total Cholesterol < 4.0 mmol/L < 4.5 mmol/L < 5.0 mmol/L LDL Cholesterol < 1.8 mmol/L < 2.5 mmol/L < 3.0 mmol/L Framingham 10-year CVD Risk Score NA 15-30 3-15/<3
+
+
+Episode	SA05846004
+Date collected	01/06/2022
+Time collected	
+Authorised by HK Shabudien on 02/06/2022 at 05:49
+
+
+Iron 2.0 L umol/L 9.0 - 30.4
+
+
+Episode	SA05846004
+Date collected	01/06/2022
+Time collected	
+Authorised by HK Shabudien on 02/06/2022 at 05:49
+
+Transferrin 1.62 L g/L 2.00 - 3.60 % Saturation 5 L % 15 - 50
+
+
+
+Episode	SA05846004
+Date collected	01/06/2022
+Time collected	
+Authorised by Instrument on 02/06/2022 at 07:28
+
+Ferritin 133 ug/L 13 - 150
+
+
+
+Episode	SA05846004
+Date collected	01/06/2022
+Time collected	
+Authorised by HK Shabudien on 02/06/2022 at 05:49
+
+Vitamin B12 181 pmol/L 145 - 569
+
+
+
+Episode	SA05846004
+Date collected	01/06/2022
+Time collected	
+Authorised by Instrument on 02/06/2022 at 02:23
+
+Serum folate 24.0 nmol/L 8.8 - 60.8
+
+
+
+
+Date Collected	01/06/2022
+Time Collected	?
+Episode	SA05846004
+White Cell Cou	7.64
+
+Date Collected	27/05/2022
+Time Collected	?
+Episode	SA05834166
+Haemoglobin	8.9 L
+Episode	SA05400415
+Date collected	09/12/2021
+Time collected	
+Authorised by HK Shabudien on 10/12/2021 at 06:02
+
+Uric acid 0.28 mmol/L 0.16 - 0.36
+
+
+
+Episode	XG00714059
+Date collected	06/11/2020
+Time collected	11:49
+Authorised by N Mimi ** on 06/11/2020 at 17:23
+
+Uric acid 0.35 mmol/L 0.16 - 0.36
+
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+Authorised by WD Kruger on 24/12/2016 at 22:04
+
+Uric acid 0.61 H mmol/L 0.16 - 0.36
+
+
+
+Episode	SA05400415
+Date collected	09/12/2021
+Time collected	
+Authorised by I van Eyssen on 10/12/2021 at 02:28
+
+ESR >130 H mm/hr 0 - 30
+
+
+
+Episode	XG00714059
+Date collected	06/11/2020
+Time collected	11:49
+
+
+Authorised by N Mimi ** on 06/11/2020 at 17:39
+
+RPR (Rapid Plasma Reagin): RPR Screen Non-reactive
+
+The non-reactive RPR suggests that this patient does not have active syphilis. However, the RPR can be non-reactive in very early syphilis, very late syphilis or in successfully treated syphilis.
+
+
+Episode	ST03151738
+Date collected	14/02/2020
+Time collected	
+Authorised by Instrument on 15/02/2020 at 18:03
+
+
+Alkaline phosphatase (ALP) 106 H U/L 42 - 98
+
+
+Episode	XG00236495
+Date collected	11/01/2017
+Time collected	21:44
+Authorised by N. Ndyamara * on 11/01/2017 at 23:38
+
+Alkaline phosphatase (ALP) 105 H U/L 42 - 98
+
+Episode	ST00963098
+Date collected	03/01/2017
+Time collected	
+Authorised by Dr L Uuyuni ** on 04/01/2017 at 18:52
+
+Alkaline phosphatase (ALP) 172 H U/L 42 - 98
+
+Episode	ST00962404
+Date collected	02/01/2017
+Time collected	07:00
+Authorised by M Hoffman on 02/01/2017 at 20:02
+
+Alkaline phosphatase (ALP) 203 H U/L 42 - 98
+
+
+
+Episode	ST03151738
+Date collected	14/02/2020
+Time collected	
+Authorised by JC Gagiano on 15/02/2020 at 18:17
+
+Gamma-glutamyl transferase (GGT) 29 U/L <40
+
+
+
+Episode	ST00963098
+Date collected	03/01/2017
+Time collected	
+Authorised by Dr L Uuyuni ** on 04/01/2017 at 18:52
+
+Gamma-glutamyl transferase (GGT) 163 H U/L <40
+
+Episode	ST00962404
+Date collected	02/01/2017
+Time collected	07:00
+Authorised by M Hoffman on 02/01/2017 at 20:02
+
+Gamma-glutamyl transferase (GGT) 162 H U/L <40
+
+
+
+Episode	XG00609610
+Date collected	13/01/2020
+Time collected	15:10
+
+
+Authorised by Instrument on 14/01/2020 at 13:56
+
+TB-NAAT: GeneXpert MTB/Rif Ultra PCR result Mycobacterium tuberculosis complex NOT detected
+
+The negative GeneXpert MTB/RIF Ultra assay does not conclusively rule out TB. Please manage according to national guidelines. If the patient is HIV infected, please submit a second specimen for TB culture and susceptibility testing.
+
+
+Episode	XG00236968
+Date collected	13/01/2017
+Time collected	
+
+Authorised by L Ramashoai on 13/01/2017 at 17:03
+
+
+
+International Normalised Ratio:
+INR 1.08 Prothrombin Time Patient 12.9 sec
+
+For most conditions requiring oral anticoagulation with warfarin: Recommended target INR is 2.5 (target range 2.0 - 3.0) For patients with a mechanical heart valve prosthesis:
+Recommended INR target
+No risk factors Risk factors present Thrombogenicity Low 2.5 3.0
+Medium 3.0 3.5
+High 3.5 3.5 Ref: Guidelines on oral anticoagulation with warfarin - fourth edition. British Journal of Haematology, 2011; 154, p311-324.
+
+
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+
+Authorised by AN Forbes on 24/12/2016 at 22:37
+
+
+
+International Normalised Ratio:
+INR 1.29 Prothrombin Time Patient 15.4 H sec 9.9 - 12.3 Prothrombin Time Control 13.4 sec
+
+For most conditions requiring oral anticoagulation with warfarin: Recommended target INR is 2.5 (target range 2.0 - 3.0) For patients with a mechanical heart valve prosthesis:
+Recommended INR target
+No risk factors Risk factors present Thrombogenicity Low 2.5 3.0
+Medium 3.0 3.5
+High 3.5 3.5 Ref: Guidelines on oral anticoagulation with warfarin - fourth edition. British Journal of Haematology, 2011; 154, p311-324.
+Episode	XG00232348
+Date collected	23/12/2016
+Time collected	08:45
+
+Authorised by L Ramashoai on 23/12/2016 at 14:40
+
+
+
+International Normalised Ratio:
+INR 1.11 Prothrombin Time Patient 13.8 sec
+
+For most conditions requiring oral anticoagulation with warfarin: Recommended target INR is 2.5 (target range 2.0 - 3.0) For patients with a mechanical heart valve prosthesis:
+Recommended INR target
+No risk factors Risk factors present Thrombogenicity Low 2.5 3.0
+Medium 3.0 3.5
+High 3.5 3.5 Ref: Guidelines on oral anticoagulation with warfarin - fourth edition. British Journal of Haematology, 2011; 154, p311-324.
+
+
+Episode	XG00236968
+Date collected	13/01/2017
+Time collected	
+Authorised by L Ramashoai on 13/01/2017 at 14:04
+
+
+Conjugated bilirubin (DBil) 4 H umol/L 0 - 3
+
+
+Episode	XG00236495
+Date collected	11/01/2017
+Time collected	21:44
+Authorised by N. Ndyamara * on 11/01/2017 at 23:38
+
+Conjugated bilirubin (DBil) 5 H umol/L 0 - 3
+
+Episode	ST00959730
+Date collected	30/12/2016
+Time collected	01:00
+Authorised by K van der Merwe ** on 30/12/2016 at 04:17
+
+Conjugated bilirubin (DBil) 15 H umol/L 0 - 3
+
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+Authorised by WD Kruger on 24/12/2016 at 22:04
+
+Conjugated bilirubin (DBil) 20 H umol/L 0 - 3
+
+
+
+Episode	XG00236968
+Date collected	13/01/2017
+Time collected	
+Authorised by L Ramashoai on 13/01/2017 at 14:04
+
+Total bilirubin 13 umol/L 5 - 21
+
+
+
+Episode	XG00236495
+Date collected	11/01/2017
+Time collected	21:44
+Authorised by N. Ndyamara * on 11/01/2017 at 23:38
+
+Total bilirubin 16 umol/L 5 - 21
+
+Episode	ST00959730
+Date collected	30/12/2016
+Time collected	01:00
+Authorised by K van der Merwe ** on 30/12/2016 at 04:17
+
+Total bilirubin 19 umol/L 5 - 21
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+Authorised by Dr. MA Rensburg** on 28/12/2016 at 17:12
+
+Total bilirubin 15 umol/L 5 - 21
+
+
+
+Episode	XG00236495
+Date collected	11/01/2017
+Time collected	21:44
+
+
+Authorised by Dr Jayshree Maharaj on 12/01/2017 at 14:21
+
+
+Hepatitis A IgG: IgG Result Positive
+
+
+Episode	XG00236495
+Date collected	11/01/2017
+Time collected	21:44
+
+
+Authorised by Instrument on 12/01/2017 at 13:10
+
+
+Hepatitis A IgM: IgM Result Negative
+
+Comment: The absence of HAV IgM antibodies suggests no recent HAV infection. Please note the incubation period of HAV infection is 3-5 weeks. Follow up test is advised if exposure to HAV is suspected in the last 4 weeks.
+
+
+Episode	XG00236495
+Date collected	11/01/2017
+Time collected	21:44
+
+Authorised by Dr Jayshree Maharaj on 12/01/2017 at 14:21
+
+
+
+Hepatitis B Surface Ag: Surface Antigen Result Negative
+
+Comment: No evidence of HBV infection. If acute HBV infection is suspected, HBV core IgM and/or follow up HBsAg testing is advised.
+
+
+Episode	XG00236495
+Date collected	11/01/2017
+Time collected	21:44
+
+Authorised by Dr Jayshree Maharaj on 12/01/2017 at 14:21
+
+
+
+Hepatitis B Surface Ab: Surface Ab Result Negative
+
+Comment: The absence of HBsAb indicates susceptibility to HBV infection.
+If HBsAg is negative, a full course of HBV vaccination is recommended. 6 weeks after the last dose of vaccine, please repeat HbsAb testing (please provide previous specimen number).
+
+Please contact the laboratory for advice in the case of failure to seroconvert to vaccine.
+
+If the patient has completed a full course of HBV vaccine in the last 5 years, then: a) HBV infection should be excluded by HBsAg testing b) If HBsAg is negative, use Hepatitis B immunoglobulin in situations requiring post-exposure prophylaxis.
+
+
+
+
+Episode	XG00236495
+Date collected	11/01/2017
+Time collected	21:44
+
+Authorised by Dr Jayshree Maharaj on 12/01/2017 at 14:21
+
+
+
+Hepatitis B Core Total Ab: Core Total Ab Result Negative
+
+Comment: No evidence of exposure to HBV.
+
+
+Episode	XG00236495
+Date collected	11/01/2017
+Time collected	21:44
+
+Authorised by Instrument on 12/01/2017 at 13:10
+
+
+
+Hepatitis C Antibody: Total Ab Result Negative
+
+Comment: The absence of HCV antibodies suggests no past or current HCV infection, although a negative result does not entirely exclude the possibility of HCV infection since HCV antibodies may be undetectable in certain stages of the infection and in certain clinical conditions.
+NOTE: Hepatitis C seroconversion is often delayed and may take up to 15 weeks to become positive following infection.
+
+
+
+Episode	XG00236495
+Date collected	11/01/2017
+Time collected	21:44
+
+Authorised by Dr Jayshree Maharaj on 12/01/2017 at 14:21
+
+
+
+Hepatitis B Immune Marker Interpretation:
+
+HBsAb HB core IgG Interpretation Pos Neg Vaccine induced immunity to HBV Pos Pos Immunity due to natural HBV infection Neg Neg No immunity to HBV Neg Pos Exposure to HBV. HBsAg testing advised to exclude
+current infection
+
+
+Episode	ST00971615
+Date collected	09/01/2017
+Time collected	
+
+
+Authorised by C J Van Heerden on 10/01/2017 at 16:25
+
+Urine Legionella Antigen Test: Results Negative
+
+
+Episode	ST00957350
+Date collected	28/12/2016
+Time collected	13:00
+
+
+Authorised by AP Jezile on 29/12/2016 at 15:34
+
+Urine Legionella Antigen Test: Results Negative
+
+
+Episode	ST00963098
+Date collected	03/01/2017
+Time collected	
+Authorised by Dr TP Jalavu on 03/01/2017 at 14:31
+
+Chloride 101 mmol/L 98 - 107
+
+
+
+Episode	ST00956547
+Date collected	28/12/2016
+Time collected	01:00
+Authorised by E Rodel ** on 28/12/2016 at 04:52
+
+Chloride 100 mmol/L 98 - 107
+
+Episode	ST00956001
+Date collected	27/12/2016
+Time collected	
+Authorised by WD Kruger on 27/12/2016 at 03:19
+
+Chloride 97 L mmol/L 98 - 107
+
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+Chloride
+Test automatically rejected on the basis of the hospital's electronic gatekeeping rules. If it is clinically necessary for the test to be performed, the rejection can only be reversed by providing a valid approval number to the laboratory. This must be done within 7 days, and before the stability limits of the test are exceeded. Please contact the person designated to provide eGK approval numbers for your facility.
+
+
+Episode	ST00963098
+Date collected	03/01/2017
+Time collected	
+Authorised by Dr TP Jalavu on 03/01/2017 at 14:31
+
+
+Calcium 1.99 L mmol/L 2.15 - 2.50
+
+
+Episode	ST00961553
+Date collected	01/01/2017
+Time collected	01:00
+Authorised by JJ Germishuys on 01/01/2017 at 03:55
+
+Calcium 1.97 L mmol/L 2.15 - 2.50
+
+Episode	ST00956547
+Date collected	28/12/2016
+Time collected	01:00
+Authorised by E Rodel ** on 28/12/2016 at 04:52
+
+Calcium 2.00 L mmol/L 2.15 - 2.50
+
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+Authorised by WD Kruger on 24/12/2016 at 22:04
+
+Calcium 1.96 L mmol/L 2.15 - 2.50
+
+
+
+Episode	ST00963098
+Date collected	03/01/2017
+Time collected	
+Authorised by Dr TP Jalavu on 03/01/2017 at 14:31
+
+Magnesium 1.03 mmol/L 0.63 - 1.05
+
+
+
+Episode	ST00961553
+Date collected	01/01/2017
+Time collected	01:00
+Authorised by JJ Germishuys on 01/01/2017 at 03:55
+
+Magnesium 0.92 mmol/L 0.63 - 1.05
+
+Episode	ST00956547
+Date collected	28/12/2016
+Time collected	01:00
+Authorised by E Rodel ** on 28/12/2016 at 04:52
+
+Magnesium 0.77 mmol/L 0.63 - 1.05
+
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+Authorised by WD Kruger on 24/12/2016 at 22:04
+
+Magnesium 0.76 mmol/L 0.63 - 1.05
+
+
+
+Episode	ST00963098
+Date collected	03/01/2017
+Time collected	
+Authorised by Dr TP Jalavu on 03/01/2017 at 14:31
+
+Inorganic phosphate 1.08 mmol/L 0.78 - 1.42
+
+
+
+Episode	ST00961553
+Date collected	01/01/2017
+Time collected	01:00
+Authorised by JJ Germishuys on 01/01/2017 at 03:55
+
+Inorganic phosphate 1.31 mmol/L 0.78 - 1.42
+
+Episode	ST00956547
+Date collected	28/12/2016
+Time collected	01:00
+Authorised by E Rodel ** on 28/12/2016 at 04:52
+
+Inorganic phosphate 0.45 L mmol/L 0.78 - 1.42
+
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+Authorised by WD Kruger on 24/12/2016 at 22:04
+
+Inorganic phosphate 0.79 mmol/L 0.78 - 1.42
+
+
+
+Episode	ST00963098
+Date collected	03/01/2017
+Time collected	
+Authorised by Dr TP Jalavu on 03/01/2017 at 14:58
+
+Lactate dehydrogenase (LD) 1701 H U/L 100 - 190
+
+
+
+Episode	ST00959730
+Date collected	30/12/2016
+Time collected	01:00
+Authorised by K van der Merwe ** on 30/12/2016 at 06:28
+
+Lactate dehydrogenase (LD) 1297 H U/L 100 - 190
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+Authorised by Dr. MA Rensburg** on 28/12/2016 at 17:12
+
+Lactate dehydrogenase (LD) 892 H U/L 100 - 190
+
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+Authorised by WD Kruger on 24/12/2016 at 22:04
+
+Lactate dehydrogenase (LD) 716 H U/L 100 - 190
+
+
+
+Episode	ST00963098
+Date collected	03/01/2017
+Time collected	
+
+
+Authorised by Dr L Uuyuni ** on 04/01/2017 at 17:18
+
+
+Glycated haemoglobin (HbA1c): Glycated haemoglobin (NGSP) 5.4 % Glycated haemoglobin (IFCC) 36 mmol/mol Estimated average glucose (eAG) 6.0 mmol/L
+
+Monitoring glycaemic control in Diabetes Mellitus (SEMDSA Guidelines): T2DM HbA1c Target < 7.0% (< 53 mmol/mol) T1DM HbA1c Target < 7.5% (< 58 mmol/mol) When HbA1c > 7.5% (> 58 mmol/mol), the risk of microvascular complications increases 2.5 - 5 fold. Estimated average glucose level (eAG): The HbA1c result is used to estimate the average glucose level to assist patient education. Conditions in which eAG may be unreliable: children, pregnancy, haemoglobinopathies, altered red cell turnover, unstable glycaemic control and renal failure. eAG may not correlate with self-monitored blood glucose values.
+
+
+Episode	ST00962404
+Date collected	02/01/2017
+Time collected	07:00
+
+Authorised by M Hoffman on 03/01/2017 at 07:33
+
+
+
+Glycated haemoglobin (HbA1c): Glycated haemoglobin (NGSP) 5.7 % Glycated haemoglobin (IFCC) 39 mmol/mol Estimated average glucose (eAG) 6.5 mmol/L
+
+Monitoring glycaemic control in Diabetes Mellitus (SEMDSA Guidelines): T2DM HbA1c Target < 7.0% (< 53 mmol/mol) T1DM HbA1c Target < 7.5% (< 58 mmol/mol) When HbA1c > 7.5% (> 58 mmol/mol), the risk of microvascular complications increases 2.5 - 5 fold. Estimated average glucose level (eAG): The HbA1c result is used to estimate the average glucose level to assist patient education. Conditions in which eAG may be unreliable: children, pregnancy, haemoglobinopathies, altered red cell turnover, unstable glycaemic control and renal failure. eAG may not correlate with self-monitored blood glucose values.
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+
+Authorised by Dr. MA Rensburg** on 28/12/2016 at 21:20
+
+
+
+Glycated haemoglobin (HbA1c): Glycated haemoglobin (NGSP) 6.2 % Glycated haemoglobin (IFCC) 44 mmol/mol Estimated average glucose (eAG) 7.3 mmol/L
+
+Monitoring glycaemic control in Diabetes Mellitus (SEMDSA Guidelines): T2DM HbA1c Target < 7.0% (< 53 mmol/mol) T1DM HbA1c Target < 7.5% (< 58 mmol/mol) When HbA1c > 7.5% (> 58 mmol/mol), the risk of microvascular complications increases 2.5 - 5 fold. Estimated average glucose level (eAG): The HbA1c result is used to estimate the average glucose level to assist patient education. Conditions in which eAG may be unreliable: children, pregnancy, haemoglobinopathies, altered red cell turnover, unstable glycaemic control and renal failure. eAG may not correlate with self-monitored blood glucose values.
+
+
+Episode	ST00963098
+Date collected	03/01/2017
+Time collected	
+Authorised by Dr TP Jalavu on 03/01/2017 at 14:31
+
+
+Creatine kinase MB mass (CK-MB) 31.94 H ug/L 0.00 - 4.88
+
+
+Episode	ST00962404
+Date collected	02/01/2017
+Time collected	07:00
+Authorised by M Hoffman on 02/01/2017 at 20:02
+
+Creatine kinase MB mass (CK-MB) 39.86 H ug/L 0.00 - 4.88
+
+
+
+Episode	ST00963098
+Date collected	03/01/2017
+Time collected	
+Authorised by Dr TP Jalavu on 03/01/2017 at 14:31
+
+Albumin 24 L g/L 35 - 52
+
+
+
+Episode	ST00962404
+Date collected	02/01/2017
+Time collected	07:00
+
+
+Authorised by Dr M du Toit on 03/01/2017 at 11:27
+
+
+Peripheral Blood Morphology:
+
+Red Cell Morphology: Anisocytosis. Moderate polychromasia. Scanty nucleated RBC's observed. No overt red cell fragmentation. No spherocytosis.
+White Cell Morphology: Absolute neutrophilic leucocytosis. Toxic granulation. Left shift to the myelocyte stage. Pleomorphic lymphocyte population. No blasts seen on scanning.
+
+Platelet Morphology: Normal granular morphology.
+
+Blood Smear comment: A leucoerythroblastic reaction is noted. This may be secondary to haemolysis or severe underlying infection. Other possible causes for a leucoerythroblastic reaction include marrow infiltration by metastatic malignancies and haematologic malignancies. A complete septic and haemolytic screen (Coombs test, LDH, reticulocyte count, unconjugated bilirubin and haptoglobin) is indicated.
+
+
+
+Episode	ST00959730
+Date collected	30/12/2016
+Time collected	01:00
+
+Authorised by Dr CM Griesel on 30/12/2016 at 10:32
+
+
+
+Peripheral Blood Morphology:
+
+Red Cell Morphology: Normocytic normochromic Moderate polychromasia Occasional nucleated red blood cells Occasional red blood cell fragments noted
+White Cell Morphology: Neutrophil leucocytosis Left shift to myelocyte stage Toxic granulation Vacuolated monocytes
+
+Platelet Morphology: Platelet morphology is normal. No clumping.
+
+Blood Smear comment: There is a true thrombocytopenia, a DIC screen is advised. Features are in keeping with sepsis.
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+
+Authorised by Y Maharaj on 29/12/2016 at 11:24
+
+
+
+Peripheral Blood Morphology:
+
+Blood Smear comment: Leucoerythroblastic reaction Peak in neutrophils and myelocytes No eosinophilia or basophilia No increase in blasts * Features are in keeping with sepsis If WCC does not respond to treatment please investigate for a myeloproliferative neoplasm
+Episode	ST00956001
+Date collected	27/12/2016
+Time collected	
+
+Authorised by Dr S Irusen *** on 27/12/2016 at 12:13
+
+
+
+Peripheral Blood Morphology:
+
+Blood Smear comment: Toxic granulation in neutrophils. Left shift to myelocyte stage. Vacuolated monocytes No overt fragmentation or spherocytosis noted. Morphological features in keeping with an underlying reactive process (infection/inflammation). True thrombocytopenia. DIC screen suggested.
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+
+Authorised by Dr S Irusen *** on 25/12/2016 at 11:15
+
+
+
+Peripheral Blood Morphology:
+
+Blood Smear comment: Toxic granulation in neutrophils. Left shift to myelocyte stage. No blasts seen on scanning Normochromic, normocytic red cells. Occasional spherocytes Platelet number decreased on film.
+Morphological features in keeping with an underlying reactive process (infection/inflammation). Mild features of haemolysis with a true thrombocytopenia. DIC (INR/PTT/fibrinogen,d-dimers) and haemolytic screen (Coombs test, LDH, reticulocyte count, unconjugated bilirubin and haptoglobin) suggested.
+
+Episode	XG00232348
+Date collected	23/12/2016
+Time collected	08:45
+
+Authorised by CM McCarthy on 23/12/2016 at 21:01
+
+
+
+Peripheral Blood Morphology:
+
+Red Cell Morphology: Rouleaux formation
+White Cell Morphology: Toxic granulation Mild vacuolation Reactive lymphocytes
+
+Platelet Morphology: Platelets severely reduced on smear. No platelet clumping noted. Scanty fibrin strands seen.
+
+Blood Smear comment: Slide referred to Pathologist.
+
+
+
+Episode	ST00962404
+Date collected	02/01/2017
+Time collected	07:00
+
+Authorised by Dr F Alzanad on 05/01/2017 at 13:56
+
+
+
+Direct Coombs (screening):
+Polyspecific Positive 3+ micro
+
+
+Microscopic positive Coombs can occur in: recently transfused patients, auto-immune conditions, RVD patients. Please correlate with other biochemical parameters for haemolysis.
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+
+Authorised by Dr F Alzanad on 30/12/2016 at 09:09
+
+
+
+Direct Coombs (screening):
+Polyspecific Positive 1+ weak macro
+
+
+Coombs test is positive, Please correlate with other parameters of haemolysis as false positives can occur in HIV, auto-immune conditions such as SLE, or recently transfused patients.
+
+
+Episode	ST00962404
+Date collected	02/01/2017
+Time collected	07:00
+
+Authorised by Dr F Alzanad on 05/01/2017 at 13:57
+
+
+Direct Coombs (typing): IgG Positive 2+ strong micro
+
+COOMBS comment: Microscopic positive Coombs can occur in: recently transfused patients, auto-immune conditions, RVD patients. Please correlate with other biochemical parameters for haemolysis.
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+
+Authorised by Dr F Alzanad on 30/12/2016 at 09:09
+
+
+Direct Coombs (typing): IgG Positive 1+ weak macro
+
+COOMBS comment: Coombs test is positive, Please correlate with other parameters of haemolysis as false positives can occur in HIV, auto-immune conditions such as SLE, or recently transfused patients.
+
+
+Episode	ST00962404
+Date collected	02/01/2017
+Time collected	07:00
+Authorised by M Hoffman on 02/01/2017 at 20:05
+
+
+Ketones (semi-quantitative) Negative
+
+
+Episode	ST00959730
+Date collected	30/12/2016
+Time collected	01:00
+Procalcitonin (sensitive)
+Test automatically rejected on the basis of the hospital's electronic gatekeeping rules. If it is clinically necessary for the test to be performed, the rejection can only be reversed by providing a valid approval number to the laboratory. This must be done within 7 days, and before the stability limits of the test are exceeded. Please contact the person designated to provide eGK approval numbers for your facility.
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+Haematology Results Phoning
+Phoning not done - cancelled by laboratory
+
+
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+
+Authorised by AN Forbes on 24/12/2016 at 21:57
+
+
+
+Results Communicated: Date phoned 24/12/2016 Time phoned 21:57 Phoned to dr parker Phoned by a forbes Results of fbc
+Episode	XG00232348
+Date collected	23/12/2016
+Time collected	08:45
+
+
+Authorised by M Snell on 24/12/2016 at 09:29
+
+
+Results Communicated: Date phoned 24/12/2016 Time phoned 09:29 Phoned to FAXED TO SKH LAB Phoned by MARISA
+
+
+
+Date Collected	28/12/2016
+Time Collected	13:00
+Episode	ST00957501
+Red Cell Count	3.12 L
+
+Date Collected	28/12/2016
+Time Collected	13:00
+Episode	ST00957501
+Haematocrit	0.286 L
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+Authorised by M Yalezo on 28/12/2016 at 18:15
+
+
+Reticulocyte Count 0.48 L % 0.50 - 2.00 Reticulocyte Count Absolute 0.015 L x 1012/L 0.050 - 0.100 Corrected Reticulocyte Count 0.31 % Reticulocyte Production Index 0.2
+
+Reticulocyte Production Index reference range: 1 - 2 Adequate response < 1 Inadequate bone marrow response > 2 Indicative of haemolysis, recent bleeding or nutritional support
+
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+
+Authorised by Dr Jayshree Maharaj on 05/01/2017 at 16:01
+
+
+
+Herpes Simplex Virus 1&2 IgG: HSV 1&2 IgG Result Positive
+
+Comment: Compatible with past exposure and infection with HSV-1 and/or HSV-2.
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+
+Authorised by Dr Jayshree Maharaj on 05/01/2017 at 16:01
+
+
+
+Herpes Simplex Virus IgM: IgM Result Negative
+
+Comment: No evidence of recent primary HSV infection.
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+Varicella Zoster Virus IgG
+Specimen insufficient for test(s)
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+Varicella Zoster Virus IgM
+Specimen insufficient for test(s)
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+
+Authorised by Dr P du Plessis on 29/12/2016 at 16:38
+
+
+
+Cytomegalovirus IgG: IgG Result Positive
+
+Comment: Compatible with past exposure and infection with CMV. If clinically indicated, please consult the laboratory for further advice on additional tests.
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+
+Authorised by Dr Jayshree Maharaj on 30/12/2016 at 11:35
+
+
+
+Cytomegalovirus IgM: IgM Result Negative
+
+Comment: A negative CMV IgM result suggests no recent CMV infection. NOTE: CMV reactivation disease is frequently IgM negative. Please contact the laboratory for advice.
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+
+Authorised by Dr P du Plessis on 29/12/2016 at 15:42
+
+
+
+Epstein Barr Virus NA IgG: EBNA IgG Result Positive
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+
+
+Authorised by Dr P du Plessis on 29/12/2016 at 16:29
+
+
+Epstein Barr Virus VCA IgM: VCA IgM Result Negative
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+
+
+Authorised by Dr SNJ Korsman on 12/01/2017 at 13:27
+
+
+Measles IgG: IgG Result Positive
+
+Comment: Compatible with immunity to Measles following vaccination or previous infection.
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+Measles IgM
+Specimen insufficient for test(s)
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+Mumps IgG
+Specimen insufficient for test(s)
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+Mumps IgM
+Specimen insufficient for test(s)
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+
+Authorised by Dr P du Plessis on 29/12/2016 at 16:35
+
+
+
+Rubella IgG: IgG Result Positive IgG Value 50.00 IU/mL
+
+Comment: The presence of Rubella IgG suggests that this patient has had past infection and has immunity to Rubella.
+If clinical Rubella infection is suspected in a patient who is less than 20 weeks pregnant, please request Rubella IgM urgently. Avidity testing can be performed if IgG is positive to determine the risk to the foetus (to differentiate primary infection from re-infection).
+
+
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+
+Authorised by Dr P du Plessis on 29/12/2016 at 16:33
+
+
+
+Rubella IgM: IgM Result Negative
+
+Comment: The absence of Rubella IgM suggests no primary infection or re- infection with Rubella virus. If recent exposure is suspected particularly in a pregnant woman less than 20 weeks gestation, please request a repeat test.
+NOTE: In general, serology assays are not validated for the diagnosis of congenital Rubella syndrome. If congenital infection is suspected, please send urine for Rubella PCR.
+
+
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+
+Authorised by Dr P du Plessis on 31/12/2016 at 16:24
+
+
+
+Coxsackie B Antibody: B1 Antibody Titre 1:320 B2 Antibody Titre 1:80 B3 Antibody Titre 1:160 B4 Antibody Titre 1:160 B5 Antibody Titre 1:320 B6 Antibody Titre 1:20
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+
+
+Authorised by Dr P du Plessis on 30/12/2016 at 08:04
+
+
+Epstein Barr Virus Infection Marker Interpretation:
+
+VCA IgM EBNA IgG Interpretation Neg Neg No evidence of EBV exposure Neg Pos Evidence of past exposure and infection with EBV Pos Neg Compatible with primary EBV infection Pos Pos Suggestive of EBV reactivation
+
+
+Episode	ST00957501
+Date collected	28/12/2016
+Time collected	13:00
+Mycoplasma (IFA)
+Test cancelled by laboratory - incorrect test registered by laboratory
+
+
+Episode	ST00956547
+Date collected	28/12/2016
+Time collected	01:00
+
+Authorised by E Rodel ** on 28/12/2016 at 04:52
+
+
+
+Troponin T (high-sensitivity):
+High-sensitivity Troponin T 332 ng/L
+
+
+hs-Troponin T interpretation in suspected Acute Coronary Syndrome (ACS): - Rule-in ACS: Value >100 ng/L (WHO rule-in level) - Rule-out ACS: Value <=14 ng/L (99th percentile level), if more than 6hrs after onset of chest pain - Less than 6hrs of chest pain and values < rule-in level require repeat sampling 3 hours later to demonstrate a rise in value.
+
+
+Episode	ST00956154
+Date collected	27/12/2016
+Time collected	08:30
+
+Authorised by Dr L Uuyuni ** on 27/12/2016 at 11:57
+
+
+
+Troponin T (high-sensitivity):
+High-sensitivity Troponin T 363 ng/L
+
+
+hs-Troponin T interpretation in suspected Acute Coronary Syndrome (ACS): - Rule-in ACS: Value >100 ng/L (WHO rule-in level) - Rule-out ACS: Value <=14 ng/L (99th percentile level), if more than 6hrs after onset of chest pain - Less than 6hrs of chest pain and values < rule-in level require repeat sampling 3 hours later to demonstrate a rise in value.
+Episode	ST00955521
+Date collected	26/12/2016
+Time collected	
+
+Authorised by E Rodel ** on 26/12/2016 at 07:41
+
+
+
+Troponin T (high-sensitivity):
+High-sensitivity Troponin T 636 ng/L
+
+
+hs-Troponin T interpretation in suspected Acute Coronary Syndrome (ACS): - Rule-in ACS: Value >100 ng/L (WHO rule-in level) - Rule-out ACS: Value <=14 ng/L (99th percentile level), if more than 6hrs after onset of chest pain - Less than 6hrs of chest pain and values < rule-in level require repeat sampling 3 hours later to demonstrate a rise in value.
+
+
+Episode	ST00955574
+Date collected	26/12/2016
+Time collected	
+
+Authorised by Instrument on 31/12/2016 at 11:55
+
+
+Bacterial Culture: Bottle: Type FAN Aerobic Plus Result No growth after 5 days
+
+
+Episode	ST00955575
+Date collected	26/12/2016
+Time collected	
+
+
+Authorised by Instrument on 31/12/2016 at 11:55
+
+Bacterial Culture: Bottle: Type FAN Aerobic Plus Result No growth after 5 days
+Episode	ST00955062
+Date collected	24/12/2016
+Time collected	
+
+
+Authorised by Instrument on 30/12/2016 at 06:54
+
+Bacterial Culture: Bottle: Type FAN Aerobic Plus Result No growth after 5 days
+Episode	ST00955063
+Date collected	24/12/2016
+Time collected	
+
+
+Authorised by Instrument on 30/12/2016 at 06:54
+
+Bacterial Culture: Bottle: Type FAN Aerobic Plus Result No growth after 5 days
+
+
+Episode	ST00955519
+Date collected	26/12/2016
+Time collected	04:45
+
+
+Authorised by C Rautenbach on 28/12/2016 at 14:52
+
+Auramine O Stain: Result (concentrated) Negative (No AFB/100 immersion fields)
+
+
+Episode	ST00956718
+Date collected	25/12/2016
+Time collected	18:30
+
+
+Authorised by C Rautenbach on 28/12/2016 at 14:52
+
+Auramine O Stain: Result (concentrated) Negative (No AFB/100 immersion fields)
+Episode	XD00874467
+Date collected	10/11/2016
+Time collected	09:00
+
+
+Authorised by NA Tokota on 14/11/2016 at 19:32
+
+Auramine O Stain: Result (concentrated) Negative (No AFB/100 immersion fields)
+No sensitivity test requested.
+
+
+Episode	ST00955519
+Date collected	26/12/2016
+Time collected	04:45
+
+Authorised by Instrument on 06/02/2017 at 12:53
+
+
+Mycobacterial Culture Liquid Medium: Growth result Negative Incubation time 40 days Culture result No growth after 40 days
+
+
+Episode	ST00956718
+Date collected	25/12/2016
+Time collected	18:30
+
+
+Authorised by Instrument on 06/02/2017 at 12:53
+
+Mycobacterial Culture Liquid Medium: Growth result Negative Incubation time 40 days Culture result No growth after 40 days
+Episode	XD00874467
+Date collected	10/11/2016
+Time collected	09:00
+
+
+Authorised by Instrument on 19/12/2016 at 12:28
+
+Mycobacterial Culture Liquid Medium: Growth result Negative Incubation time 35 days Culture result No growth after 35 days
+
+
+Episode	ST00955519
+Date collected	26/12/2016
+Time collected	04:45
+
+
+Authorised by GM McDonald ** on 26/12/2016 at 09:30
+
+Gram Stain: Neutrophils Scanty (1+) Organisms No bacteria observed
+
+
+Episode	ST00955515
+Date collected	25/12/2016
+Time collected	22:30
+
+
+Authorised by GM McDonald ** on 26/12/2016 at 09:30
+
+Gram Stain: Neutrophils Scanty (1+) Organisms No bacteria observed
+Episode	ST00955501
+Date collected	25/12/2016
+Time collected	18:30
+
+
+Authorised by GM McDonald ** on 26/12/2016 at 09:24
+
+Gram Stain: Neutrophils Moderate (2+) Gram positive cocci Moderate (2+) Gram negative bacilli Moderate (2+)
+
+
+Episode	ST00955519
+Date collected	26/12/2016
+Time collected	04:45
+
+
+Authorised by GM McDonald ** on 28/12/2016 at 11:04
+
+Bacterial Culture: No growth after 1 day
+
+
+
+
+
+
+
+Episode	ST00955515
+Date collected	25/12/2016
+Time collected	22:30
+
+
+Authorised by GM McDonald ** on 28/12/2016 at 11:03
+
+Bacterial Culture: Normal flora isolated
+
+
+
+
+
+Episode	ST00955501
+Date collected	25/12/2016
+Time collected	18:30
+
+
+Authorised by GM McDonald ** on 28/12/2016 at 11:00
+
+Bacterial Culture: Normal flora isolated
+
+
+Episode	ST00955515
+Date collected	25/12/2016
+Time collected	22:30
+
+
+Authorised by InstrumentAG on 26/12/2016 at 18:33
+
+
+Real time PCR for M. tuberculosis (GeneXpert): PCR result Mycobacterium tuberculosis complex NOT detected
+
+The negative GeneXpert MTB/Rif assay does not conclusively rule out TB. Please manage according to national guidelines. If the patient is HIV infected, please submit a second sample for TB culture and susceptibility testing.
+
+
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+Authorised by WD Kruger on 24/12/2016 at 22:04
+
+
+Total protein 60 g/L 60 - 78
+
+
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+
+
+Authorised by AN Forbes on 24/12/2016 at 22:37
+
+
+Activated Partial Thromboplastin Time:
+PTT Patient 26.5 sec 22.0 - 30.7 PTT Control 26.8 sec PTT Ratio 1.00
+
+
+
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+
+
+Authorised by AN Forbes on 24/12/2016 at 22:38
+
+
+Fibrinogen:
+Fibrinogen Patient 3.7 g/L 2.0 - 4.0
+
+
+
+Episode	ST00954955
+Date collected	24/12/2016
+Time collected	
+
+
+Authorised by AN Forbes on 24/12/2016 at 22:37
+
+D-Dimer: D-Dimer Quantitative 1.85 H mg/L 0.00 - 0.50
+
+
+Episode	XG00232417
+Date collected	23/12/2016
+Time collected	20:30
+
+
+Authorised by S Khulela on 24/12/2016 at 00:01
+
+
+Results Communicated: Date phoned 24/12/2016 Time phoned 00:01 Phoned to DR WILLEMSE Phoned by SIM Results of FBC
+
+
+Episode	XG00232348
+Date collected	23/12/2016
+Time collected	08:45
+
+
+Authorised by L Ramashoai on 23/12/2016 at 16:48
+
+
+Results Communicated: Date phoned 23/12/2016 Time phoned 16:46 Phoned to No answer in Trauma unit MICDH Phoned by L.RAmashoai Results of Low plt Message Tried calling the patient on C/phone no answer
+
+
+Episode	XG00232417
+Date collected	23/12/2016
+Time collected	20:30
+
+
+Authorised by S Ngodwane on 24/12/2016 at 11:23
+
+
+HIV-1/2 Rapid (Screen): HIV-1/2 Rapid Result Negative
+
+Comment: A negative result does not completely rule out the possibility of an infection with HIV, e.g., patients in the HIV "Window Period". Note: Children who have been on treatment from an early stage of infection may be antibody negative.
+NOTE: the sensitivity and specificity of this Rapid Test is less than that of standard HIV ELISA's.
+
+Please interpret results in the context of clinical findings and other investigations and/or laboratory results. Please repeat sample if clinically indicated.
+
+
+
+
+
+Date Collected	23/12/2016
+Time Collected	08:45
+Episode	XG00232348
+Platelet Count	7 L
+Episode	XG00232348
+Date collected	23/12/2016
+Time collected	08:45
+
+Authorised by Dr LA Jacobsz on 26/12/2016 at 12:50
+
+
+
+Interpretation:
+
+Neutrophilia suggestive of a reactive process. Please exclude infection. No blasts noted. No red cell fragmentation. True thrombocytopenia. The marked thrombocytopenia may be due to immune mediated peripheral platelet destruction (idiopathic or secondary to viral infections, HIV, drugs and autoimmune disorders). Other possible causes include sequestration(e.g. hypersplenism) and platelet consumption (if considered, a DIC screen is advised) and decreased platelet production.
+
+
+Page 1
+Print Page
+
+
+Patient ID: 25821273
+Problem: login failed after 3 attempts.
+----------------------------------------
+Patient ID: 187773908
+Problem: patient_search failed after 3 attempts.
+----------------------------------------
